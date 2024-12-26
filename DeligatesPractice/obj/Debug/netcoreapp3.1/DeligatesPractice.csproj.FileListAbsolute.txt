@@ -1,0 +1,14 @@
+C:\Users\vaish\source\repos\DeligatesPractice\DeligatesPractice\bin\Debug\netcoreapp3.1\DeligatesPractice.exe
+C:\Users\vaish\source\repos\DeligatesPractice\DeligatesPractice\bin\Debug\netcoreapp3.1\DeligatesPractice.deps.json
+C:\Users\vaish\source\repos\DeligatesPractice\DeligatesPractice\bin\Debug\netcoreapp3.1\DeligatesPractice.runtimeconfig.json
+C:\Users\vaish\source\repos\DeligatesPractice\DeligatesPractice\bin\Debug\netcoreapp3.1\DeligatesPractice.runtimeconfig.dev.json
+C:\Users\vaish\source\repos\DeligatesPractice\DeligatesPractice\bin\Debug\netcoreapp3.1\DeligatesPractice.dll
+C:\Users\vaish\source\repos\DeligatesPractice\DeligatesPractice\bin\Debug\netcoreapp3.1\DeligatesPractice.pdb
+C:\Users\vaish\source\repos\DeligatesPractice\DeligatesPractice\obj\Debug\netcoreapp3.1\DeligatesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaish\source\repos\DeligatesPractice\DeligatesPractice\obj\Debug\netcoreapp3.1\DeligatesPractice.AssemblyInfoInputs.cache
+C:\Users\vaish\source\repos\DeligatesPractice\DeligatesPractice\obj\Debug\netcoreapp3.1\DeligatesPractice.AssemblyInfo.cs
+C:\Users\vaish\source\repos\DeligatesPractice\DeligatesPractice\obj\Debug\netcoreapp3.1\DeligatesPractice.csproj.CoreCompileInputs.cache
+C:\Users\vaish\source\repos\DeligatesPractice\DeligatesPractice\obj\Debug\netcoreapp3.1\DeligatesPractice.sourcelink.json
+C:\Users\vaish\source\repos\DeligatesPractice\DeligatesPractice\obj\Debug\netcoreapp3.1\DeligatesPractice.dll
+C:\Users\vaish\source\repos\DeligatesPractice\DeligatesPractice\obj\Debug\netcoreapp3.1\DeligatesPractice.pdb
+C:\Users\vaish\source\repos\DeligatesPractice\DeligatesPractice\obj\Debug\netcoreapp3.1\DeligatesPractice.genruntimeconfig.cache
